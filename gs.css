@@ -1,0 +1,71 @@
+.speech
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+
+.song
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: black;
+}
+
+.direction
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    color: black;
+    background-color: beige;
+}
+
+.name
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color: black;
+}
+
+.direction:hover
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    color:indigo;
+    background-color:blanchedalmond;
+}
+
+.BOAT
+{
+    color:darkslategray;
+}
+
+.BUT
+{
+    color: darkslategray;
+}
+
+.DICK
+{
+    color: darkslategray;
+}
+
+.ALL
+{
+    color: darkslategray;
+}
+
+.RALPH
+{
+    color: darkslategray;
+}
+
+.CAPT
+{
+    color: darkslategray;
+}
+
+.CHORUS
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

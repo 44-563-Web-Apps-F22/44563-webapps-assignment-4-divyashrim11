@@ -27,6 +27,11 @@
     color: black;
 }
 
+.name:hover
+{
+    background-color: blueviolet; 
+}
+
 .direction:hover
 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -65,6 +70,10 @@
     color: darkred;
 }
 
+.JOS
+{
+    color : darkred;
+}
 .CHORUS
 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;

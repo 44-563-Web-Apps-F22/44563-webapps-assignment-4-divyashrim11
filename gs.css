@@ -30,6 +30,10 @@
 .name:hover
 {
     background-color: blueviolet; 
+    text-shadow: 1px 1px 2px blue,0 0 25px rgb(244, 245, 243), 0 0 5px rgb(216, 234, 35);
+    box-shadow: 10px 5px 5px rgb(237, 91,206);
+    color: beige
+
 }
 
 .direction:hover
